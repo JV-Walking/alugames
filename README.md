@@ -1,2 +1,2 @@
 # alugames
-Apredendo JavaScript
+Apredendo JavaScript para Front-End.
